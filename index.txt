@@ -1,0 +1,12 @@
+ Volume in drive C has no label.
+ Volume Serial Number is 5096-4A34
+
+ Directory of C:\Users\Rajendar\Desktop\JavaProject
+
+24-Apr-17  04:30 PM    <DIR>          .
+24-Apr-17  04:30 PM    <DIR>          ..
+24-Apr-17  04:30 PM                 0 index.txt
+24-Apr-17  04:09 PM               672 test.class
+12-Apr-17  11:14 AM               148 test.java
+               3 File(s)            820 bytes
+               2 Dir(s)  25,318,014,976 bytes free
