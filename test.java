@@ -7,6 +7,4 @@ public class test{
 		}
 	}
 }
-
-added line
-
+deleted line
